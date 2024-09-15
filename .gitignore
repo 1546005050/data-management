@@ -1,0 +1,12 @@
+# 忽略 npm 下载的第三方包
+node_modules
+# 忽略分发文件
+dist
+# 忽略 vscode 配置文件
+.vscode
+# 忽略秘钥文件
+*.pem
+*.cre
+# 忽略日志文件
+*.log
+password.txt
